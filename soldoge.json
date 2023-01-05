@@ -1,0 +1,39 @@
+{
+  "name": "Sol Doge WL",
+  "symbol": "SDOGE",
+  "description": "Solana's Cutest Ambassador!\nCongratulations. Your wallet address has earned WhiteList rights.\nMint for free now before your mint expires.👇",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://sol-doge.netlify.app/",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Floor",
+      "value": "15.7 SOL"
+    },
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "6mN961DeZ6ooZH8CrbhMgqCqUp1av6JBJs2ZB9Gi56n",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8ymi88q5DtmdNTn2sPRNFkvMkszMHuLJ1e3RVdWjPa3s/logo.png",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "SDOGE",
+    "family": "WhiteList"
+  },
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8ymi88q5DtmdNTn2sPRNFkvMkszMHuLJ1e3RVdWjPa3s/logo.png"
+}
